@@ -1,4 +1,4 @@
-# Inofrmations de contact NPX via le terminal
+# Informations de contact NPX via le terminal
 
 ## Pour te connecter à moi je t'invite à taper ceci dans ta console :
 
